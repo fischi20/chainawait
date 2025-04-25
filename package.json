@@ -1,7 +1,7 @@
 {
   "name": "@fischi20/chainawait",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "packageManager": "pnpm@10.3.0",
   "description": "",
   "license": "MIT",
