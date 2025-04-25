@@ -83,7 +83,7 @@
     "lint": "eslint .",
     "play": "npm -C playground run dev",
     "prepublishOnly": "npm run build",
-    "release": "bumpp && pnpm publish",
+    "release": "bumpp && pnpm publish --access public",
     "start": "tsx src/index.ts",
     "test": "vitest"
   },
